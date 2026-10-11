@@ -5,7 +5,7 @@
 }
 
 :root {
-	--base-color: #697f92ef;
+	--base-color: #697f92af;
 	--text-color: #1C1B18;
 	--span-color: #fff;
 }
@@ -13,7 +13,7 @@
 .darkmode{
 	--base-color: #1C1B18;
 	--text-color: #E8F0F7;
-	--span-color: #1C1B18;
+	--span-color: #1C1B17;
 }
 
 body {
