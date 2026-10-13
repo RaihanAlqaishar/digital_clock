@@ -6,7 +6,7 @@
 
 :root {
 	--base-color: #697f92ee;
-	--text-color: #1C1B18;
+	--text-color: #1C1B45;
 	--span-color: #ffff;
 }
 
@@ -56,7 +56,6 @@ body {
 
 .container .dateKotak{
 	display: flex;
-	background-color: red;
 	color: var(--text-color);
 }
 
