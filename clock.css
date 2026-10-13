@@ -56,6 +56,7 @@ body {
 
 .container .dateKotak{
 	display: flex;
+	background-color: red;
 	color: var(--text-color);
 }
 
