@@ -5,15 +5,15 @@
 }
 
 :root {
-	--base-color: #4ee;
-	--text-color: rgb(97, 66, 53);
+	--base-color: rgb(231, 68, 23);
+	--text-color: rgb(224, 23, 150);
 	--span-color: #ffff;
 }
 
 .darkmode{
-	--base-color: #1C1B1gf;
-	--text-color: #E8F0F7;
-	--span-color: #1C1B17;
+	--base-color: #16cd16;
+	--text-color: #ea1829;
+	--span-color: #dbb108;
 }
 
 body {
