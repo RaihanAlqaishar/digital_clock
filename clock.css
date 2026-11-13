@@ -11,9 +11,9 @@
 }
 
 .darkmode{
-	--base-color: #cc891c;
-	--text-color: #e61e46;
-	--span-color: #edede6;
+	--base-color: #cc1c1c;
+	--text-color: #1e9de6;
+	--span-color: #080807;
 }
 
 body {
