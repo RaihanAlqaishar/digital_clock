@@ -5,13 +5,13 @@
 }
 
 :root {
-	--base-color: rgb(144, 23, 231);
-	--text-color: rgb(153, 141, 149);
+	--base-color: rgb(231, 75, 23);
+	--text-color: rgb(16, 243, 54);
 	--span-color: #ffffer;
 }
 
 .darkmode{
-	--base-color: #d5f80e;
+	--base-color: #5c0ef8;
 	--text-color: #e61e1e;
 	--span-color: #38d216;
 }
